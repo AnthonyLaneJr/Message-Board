@@ -1,0 +1,19 @@
+#id_title, #id_body, #id_create{
+    margin-top: 5px;
+    padding: 10px;
+    width: 100%;
+}
+#id_create_form > p >label{
+    font-weight: 700;
+    font-size: 1.5rem;
+}
+#id_create{
+    font-size: 1rem;
+    font-weight: 700;
+    padding: 5px;
+    margin-top: -.5rem;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
